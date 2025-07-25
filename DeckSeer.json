@@ -1,0 +1,9 @@
+{
+  "id": "DeckPreview",
+  "name": "Deck Prewview",
+  "author": ["LiMetal_real"],
+  "description": "Peer into the future of your deck (see upcoming draws)",
+  "prefix": "deckpreview_",
+  "main_file": "DeckPreview.lua",
+  "version": "1.0.0"
+}
